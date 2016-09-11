@@ -16,3 +16,6 @@ E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.Form1.resources
 E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.Properties.Resources.resources
 E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
 E:\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.pdb
+C:\Users\NICOLAS\Documents\GitHub\tp_laboratorio_2\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\NICOLAS\Documents\GitHub\tp_laboratorio_2\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.exe
+C:\Users\NICOLAS\Documents\GitHub\tp_laboratorio_2\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.pdb
