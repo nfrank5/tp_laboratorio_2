@@ -1,0 +1,18 @@
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.exe.config
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.pdb
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.Form1.resources
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.pdb
+E:\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.exe.config
+E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.exe
+E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.pdb
+E:\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.exe
+E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
+E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.Form1.resources
+E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+E:\Nicolas.Frankenfeld\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
+E:\Nicolas.Frankenfeld\TP_1\bin\Debug\TP_1.pdb

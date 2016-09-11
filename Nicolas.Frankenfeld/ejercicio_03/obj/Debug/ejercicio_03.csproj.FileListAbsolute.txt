@@ -1,0 +1,6 @@
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_03\bin\Debug\ejercicio_03.exe.config
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_03\bin\Debug\ejercicio_03.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_03\bin\Debug\ejercicio_03.pdb
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_03\obj\Debug\ejercicio_03.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_03\obj\Debug\ejercicio_03.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_03\obj\Debug\ejercicio_03.pdb

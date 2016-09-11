@@ -1,0 +1,5 @@
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_02\bin\Debug\ejercicio_02.exe.config
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_02\bin\Debug\ejercicio_02.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_02\bin\Debug\ejercicio_02.pdb
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_02\obj\Debug\ejercicio_02.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ejercicio_02\obj\Debug\ejercicio_02.pdb

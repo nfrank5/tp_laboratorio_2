@@ -1,0 +1,6 @@
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\Clase_05\bin\Debug\Clase_05.exe.config
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\Clase_05\bin\Debug\Clase_05.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\Clase_05\bin\Debug\Clase_05.pdb
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\Clase_05\obj\Debug\Clase_05.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\Clase_05\obj\Debug\Clase_05.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\Clase_05\obj\Debug\Clase_05.pdb

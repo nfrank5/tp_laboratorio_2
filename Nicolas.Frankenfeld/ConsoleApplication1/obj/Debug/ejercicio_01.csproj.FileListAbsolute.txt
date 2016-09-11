@@ -1,0 +1,6 @@
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ConsoleApplication1\obj\Debug\ejercicio_01.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Nueva carpeta\Nicolas.Frankenfeld\Nicolas.Frankenfeld\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
