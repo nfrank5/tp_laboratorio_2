@@ -9,7 +9,7 @@ namespace TP_1
     class Calculadora
     {
         /// <summary>
-        /// recibe dos numeros y un operador que realizan la operacion matematica solicitada
+        /// recibe dos numeros y un operador con los que se realiza la operacion matematica solicitada
         /// </summary>
         /// <param name="numero1">objeto de la clase Numero</param>
         /// <param name="numero2">objeto de la clase Numero</param>
@@ -48,7 +48,7 @@ namespace TP_1
         /// valida el operador, si no es uno de los esperados, retorna "+"
         /// </summary>
         /// <param name="operador">recibe un string</param>
-        /// <returns>retorna el operadro en formato string</returns>
+        /// <returns>retorna el operador en formato string</returns>
         public static string validarOperador(string operador)
         {
             string retorno = "+";

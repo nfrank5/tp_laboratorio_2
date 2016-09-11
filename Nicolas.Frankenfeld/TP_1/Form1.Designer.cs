@@ -83,7 +83,7 @@
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpiar.TabIndex = 4;
-            this.btnLimpiar.Text = "CC";
+            this.btnLimpiar.Text = "&CC";
             this.btnLimpiar.UseVisualStyleBackColor = true;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
@@ -93,7 +93,7 @@
             this.btnOperar.Name = "btnOperar";
             this.btnOperar.Size = new System.Drawing.Size(75, 23);
             this.btnOperar.TabIndex = 5;
-            this.btnOperar.Text = "=";
+            this.btnOperar.Text = "&=";
             this.btnOperar.UseVisualStyleBackColor = true;
             this.btnOperar.Click += new System.EventHandler(this.btnOperar_Click);
             // 
